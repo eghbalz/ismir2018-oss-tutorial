@@ -5,3 +5,4 @@ sphinx
 flake8
 scikit-learn
 seaborn
+pytest
